@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 Learning: React.js, Next.js, and Tailwind
+- 🌱 Learning Computer Science
 
 - 🧑‍🎓 I’m an Undergraduate at **USJ**
 
