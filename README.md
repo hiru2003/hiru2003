@@ -39,9 +39,14 @@
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Scar1109&theme=dark&hide_border=false" /> 
 </td>
-<td width="50%" align="center">
+<td width="50%" >
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Scar1109&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+ - **Languages & Core:** Python · JavaScript/TypeScript · Rust · Go · Java · Bash
+- **Web & APIs:** Next.js · React (Redux) · FastAPI · Flask · Express.js · Spring Boot · Axum
+- **AI & Data:** PyTorch · TensorFlow (Lite) · scikit-learn · Detectron2 · RAG pipelines · Apache Airflow · CrewAI · LangGraph · Agno · Amazon Bedrock (+Agents/Guardrails)
+- **Infra & DevOps:** AWS · GCP · Cloudflare · Docker · Serverless · Microservices · RabbitMQ · Kafka · SQS · Observability/Monitoring
+- **Testing & QA:** pytest · unittest · Playwright · Cypress · Postman
+- **Other Domains:** IoT (Arduino, Raspberry Pi) · socket-level networking · LaTeX
   
   </td>
 </tr>
