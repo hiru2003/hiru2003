@@ -41,12 +41,11 @@
 </td>
 <td width="50%" >
 
- - **Languages & Core:** Python · JavaScript/TypeScript · Rust · Go · Java · Bash
-- **Web & APIs:** Next.js · React (Redux) · FastAPI · Flask · Express.js · Spring Boot · Axum
-- **AI & Data:** PyTorch · TensorFlow (Lite) · scikit-learn · Detectron2 · RAG pipelines · Apache Airflow · CrewAI · LangGraph · Agno · Amazon Bedrock (+Agents/Guardrails)
+- **Languages & Core:** · Python · TypeScript/Javascript · Java · C++ · HTML/CSS
+- **Web & APIs:** Next.js · React · FastAPI · Flask · Express.js · Spring Boot 
+- **AI & Data:** PyTorch · TensorFlow (Lite) · scikit-learn · Detectron2 · RAG pipelines · CrewAI · LangGraph 
 - **Infra & DevOps:** AWS · GCP · Cloudflare · Docker · Serverless · Microservices · RabbitMQ · Kafka · SQS · Observability/Monitoring
 - **Testing & QA:** pytest · unittest · Playwright · Cypress · Postman
-- **Other Domains:** IoT (Arduino, Raspberry Pi) · socket-level networking · LaTeX
   
   </td>
 </tr>
