@@ -1,7 +1,7 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hi 👋, I'm Hirusha Kariyawasam</h1>
 <h3 align="center">💻 Computer Science Undergraduate | 🌐 Web Developer | 🚀 Building Codedev </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
+<p align="center"> <img src="https://camo.githubusercontent.com/f75e9a99c40803721bec9c85413b17ea19bf43bc70a2821002cc0f032d31b1cf/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d726173686d6964756c617368616e69266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" /> </p>
 
 <table align="center">
 <tr border="none">
